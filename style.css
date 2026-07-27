@@ -1,0 +1,46 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2E2E2E;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.logo-bossa{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+body{
+    background-color:#F8F5EF;
+}
+.text-prin{
+    margin:50px ;
+    border-radius: 5px;
+    padding: 30px;
+    width: 1000px;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 1);
+    text-align:justify;
+    }
+
+.conteudo{
+    margin:40px 70px ;
+}
+
+.autores a {
+    font-style: italic; 
+    font-family: "Arial", sans-serif; 
+    font-weight: bold;
+    color: #555; 
+    text-decoration: none; 
+     display: inline-block;
+    transition: all 0.3s ease;
+}
+
+.autores a:hover{
+    color: #ffffff;
+    text-decoration: none;
+    transform: scale(1.03);
+}
