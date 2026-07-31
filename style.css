@@ -16,6 +16,12 @@
 body{
     background-color:#F8F5EF;
 }
+h1{
+    color:#123C3A;
+}
+h2{
+    color: #1C5A56;
+}
 .text-prin{
     margin:50px ;
     border-radius: 5px;
@@ -33,14 +39,13 @@ body{
     font-style: italic; 
     font-family: "Arial", sans-serif; 
     font-weight: bold;
-    color: #555; 
+    color: #1C5A56; 
     text-decoration: none; 
-     display: inline-block;
+    display: inline-block;
     transition: all 0.3s ease;
 }
 
 .autores a:hover{
-    color: #ffffff;
+    color: #D8A64D;
     text-decoration: none;
-    transform: scale(1.03);
 }
